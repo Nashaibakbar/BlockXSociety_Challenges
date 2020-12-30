@@ -2,7 +2,7 @@
 
 # Challenge 01
  
- Created ERC20 token || function used:
+ ERC20 token || function used:
  -name
  -symbol
  -totalsupply
