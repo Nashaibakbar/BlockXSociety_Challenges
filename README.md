@@ -2,19 +2,12 @@
 
 # Challenge 01
  
- ERC20 token || function used:
- -name
- -symbol
- -totalsupply
- -decimal
- -transfer
- -transferFrom
- -approve
+ ERC20 token Implementation
 
 # Challenge 02
 
------
+ERC721 Implementation 
 
 # Challenge 03
 
-Implementation of ERC223 
+ERC223 Implementation
